@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
