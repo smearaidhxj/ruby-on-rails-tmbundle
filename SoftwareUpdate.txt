@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
