@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Fix xyxyxyxyn calculation, swap axis (#8249)
