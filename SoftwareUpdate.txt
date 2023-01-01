@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
