@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
