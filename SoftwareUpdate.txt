@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+docs: update view-results-in-terminal.md (#66)
