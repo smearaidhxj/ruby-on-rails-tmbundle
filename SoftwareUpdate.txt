@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
