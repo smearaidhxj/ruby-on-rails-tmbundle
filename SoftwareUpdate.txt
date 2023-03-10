@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add visuals in guides/distance-calculation.md (#7876)
