@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Replace onnx2tf usage from CLI to Python (#8429)
