@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix TypeError in check_cfg() (#9245)
