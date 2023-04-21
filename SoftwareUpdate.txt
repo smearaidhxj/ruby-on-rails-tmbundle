@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
