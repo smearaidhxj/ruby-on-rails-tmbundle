@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
