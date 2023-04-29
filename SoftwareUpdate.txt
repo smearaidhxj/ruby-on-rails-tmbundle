@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Update Docs Home and Neural Magic pages (#7243)
