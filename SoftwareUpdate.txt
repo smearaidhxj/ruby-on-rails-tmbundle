@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update docs building code (#7601)
