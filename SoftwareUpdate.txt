@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+OBB: Fix when training on zip data (#8680)
