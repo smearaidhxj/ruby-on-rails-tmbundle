@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
