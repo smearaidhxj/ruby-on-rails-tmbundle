@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Fix device counting method to account for double-digit device IDs (#8502)
