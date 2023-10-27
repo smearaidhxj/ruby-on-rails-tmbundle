@@ -1,1 +1,1 @@
-fix non-coco val
+Add horizontal Mosaic3 augmentation (#6898)
