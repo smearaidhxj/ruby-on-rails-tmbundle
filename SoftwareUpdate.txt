@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add PaddlePaddle Docs Integrations Page (#8858)
