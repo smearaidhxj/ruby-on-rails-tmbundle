@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Update Colab notebook for YOLOv8.1 (#8660)
