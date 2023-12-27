@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
