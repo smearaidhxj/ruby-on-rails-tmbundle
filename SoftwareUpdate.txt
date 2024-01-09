@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Object Counter improvements (#8648)
