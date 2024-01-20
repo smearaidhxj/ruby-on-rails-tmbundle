@@ -1,1 +1,1 @@
-update
+Compress docs images (#8124)
