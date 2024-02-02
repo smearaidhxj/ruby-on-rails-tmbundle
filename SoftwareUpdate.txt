@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Fix OpenVINO missing batch-size bug (#9264)
