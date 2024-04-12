@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
