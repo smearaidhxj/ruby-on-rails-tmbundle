@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Improve Coral Edge TPU guide (#8160)
