@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
