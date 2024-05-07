@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Segment TensorRT batch=3 fix (#7952)
