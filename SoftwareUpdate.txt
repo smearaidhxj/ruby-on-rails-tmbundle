@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add new @Retry() decorator (#7854)
