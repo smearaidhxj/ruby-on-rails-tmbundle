@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
